@@ -1,0 +1,8 @@
+{
+  "name": "Middle Click Notification Dismiss",
+  "description": "Lets you dismiss notifications by middle clicking them",
+  "uuid": "mclicknotif@robertmachaj",
+  "shell-version": [
+    "40"
+  ]
+}
